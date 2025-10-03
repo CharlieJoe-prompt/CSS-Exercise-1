@@ -1,0 +1,49 @@
+html {
+    background-color:  #e3f4ff;
+
+}
+.heading-1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:cadetblue;
+
+}
+.global-nav{
+    border-width: 4px;
+    background-color: #afc3ff;
+    border-radius: 10px;
+    padding: 20px;
+    display: inline-block;
+    margin: 4px;
+    border-style:groove;
+    border-color: black;
+}
+.local-nav{
+    border-width: 4px;
+    background-color: #b2f6ff;
+    border-radius: 10px;
+    padding: 20px;
+    display:inline-block;
+    margin: 4px;
+    border-style:groove;
+    border-color: black;
+}
+
+.g-nav-title{
+    background-color: #b2b3ff;
+    border-radius: 10px;
+    padding: 20px;
+    display: table;
+    margin: 4px;
+    border-style:groove;
+    border-color: black;
+}
+
+.l-nav-title{
+    background-color: #a2ccfd;
+    border-radius: 10px;
+    padding: 20px;
+    display: table;
+    margin: 4px;
+    border-style:groove;
+    border-color: black;
+}
